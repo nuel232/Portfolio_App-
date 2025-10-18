@@ -7,14 +7,14 @@ A beautiful, modern portfolio mobile application built with Flutter featuring sm
 
 ## ✨ Features
 
-- 🎨 **Light & Dark Theme** - Seamless theme switching with custom color schemes
-- 🎭 **Smooth Animations** - Fade-in and slide-up effects on all sections
-- 👤 **About Section** - Personal information with icon-based info cards
-- 💪 **Skills Section** - Animated progress bars showing skill proficiency levels
-- 🚀 **Projects Section** - Showcase of projects with detailed descriptions
-- 📞 **Contact Section** - Clickable contact items with deep linking (email, phone, social media)
-- 📱 **Responsive Design** - Works seamlessly across different screen sizes
-- 🎯 **Clean Architecture** - Modular, organized, and maintainable codebase
+- **Light & Dark Theme** - Seamless theme switching with custom color schemes
+- **Smooth Animations** - Fade-in and slide-up effects on all sections
+- **About Section** - Personal information with icon-based info cards
+- **Skills Section** - Animated progress bars showing skill proficiency levels
+- **Projects Section** - Showcase of projects with detailed descriptions
+- **Contact Section** - Clickable contact items with deep linking (email, phone, social media)
+- **Responsive Design** - Works seamlessly across different screen sizes
+- **Clean Architecture** - Modular, organized, and maintainable codebase
 
 ## 🛠️ Tech Stack
 
