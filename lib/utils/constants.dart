@@ -4,21 +4,21 @@ import 'package:personal_profolio_app/models/project_model.dart';
 
 class PortfolioConstants {
   // Personal Info
-  static const String name = 'Your Name';
+  static const String name = 'Nwankwoala kelechi';
   static const String title = 'Mobile Developer';
   static const String aboutText =
       'I am a passionate mobile developer with experience in building beautiful and functional mobile applications. I love creating intuitive user experiences and solving complex problems through code.';
 
   static const String education = 'Computer Science Student';
-  static const String location = 'Lagos, Nigeria';
-  static const String experience = '2+ years in mobile development';
+  static const String location = 'Abuja, Nigeria';
+  static const String experience = '1+ years in mobile development';
 
   // Contact Info
   static const String email = 'nwankwoala3@gmail.com';
   static const String phone = '+234   915 641 4321';
-  static const String linkedin = 'linkedin.com/in/yourprofile';
-  static const String github = 'github.com/yourusername';
-  static const String twitter = '@yourhandle';
+  static const String linkedin = 'linkedin.com/in/nwankwoala-kelechi';
+  static const String github = 'github.com/nuel232';
+  static const String twitter = '@kelechixx_';
 
   // Skills
   static final List<SkillModel> skills = [
@@ -35,13 +35,13 @@ class PortfolioConstants {
     ProjectModel(
       title: 'E-Commerce App',
       description: 'Full-featured shopping app with payment integration',
-      tech: 'Flutter, Firebase, Stripe',
+      tech: 'Flutter, Firebase, stripe',
       icon: Icons.shopping_cart_rounded,
     ),
     ProjectModel(
       title: 'Task Manager',
       description: 'Productivity app with cloud sync and notifications',
-      tech: 'Flutter, SQLite, Push Notifications',
+      tech: 'Flutter, Hive, Push Notifications',
       icon: Icons.task_alt_rounded,
     ),
     ProjectModel(

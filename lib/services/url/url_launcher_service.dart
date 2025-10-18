@@ -16,7 +16,6 @@ class UrlLauncherService {
   }
 
   static Future<void> launchWebUrl(String url) async {
-    // ← Changed method name
     final uri = Uri.parse('https://$url');
     if (await canLaunchUrl(uri)) {
       await launchUrl(uri, mode: LaunchMode.externalApplication);
